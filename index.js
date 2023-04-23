@@ -45,7 +45,7 @@ var ref = {
     let debounce = new Date();
     let letterHandeled = true;
 
-    render();
+    // render();
 
     document.getElementById("click").addEventListener("mousedown", mouseDown);
     document.getElementById("click").addEventListener("mouseup", mouseUp);
